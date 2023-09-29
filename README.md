@@ -21,4 +21,3 @@ has_root_numerically = (Magnitude < 1e-3)<br />
 #magnitude (upper bound) for module of f on X_new, and if for example<br />
 #numerically means that it is guarateed that f has root in box X_new with tolerance = 1e-3<br />
 #in this case X_new is approximately [Interval(-1.004482, -1.004483], Interval[0.815660, 0.815661]]<br />
-'''
